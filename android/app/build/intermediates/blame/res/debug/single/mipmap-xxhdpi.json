@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/zsl/workspace/React_Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/zsl/workspace/React_Native/AwesomeProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zsl/AwesomeProject/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/zsl/AwesomeProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
